@@ -1,5 +1,8 @@
 Read Me
 ======================
+
+This repository corresponds to the paper "Context Tree for Adaptive Session-based Recommendation" at https://arxiv.org/abs/1806.03733
+
 Requirements
 ----------------------
 * Anaconda 4.X (Python 3.5+)
